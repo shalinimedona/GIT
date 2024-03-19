@@ -1,0 +1,33 @@
+{
+  "name": "esri.github.io",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Landing page for Esri open source projects.",
+  "author": "Esri",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo no test defined",
+    "start": "echo load index.html in a browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esri/esri.github.io.git"
+  },
+  "keywords": [
+    "arcgis",
+    "location",
+    "maps",
+    "open-source",
+    "calcite"
+  ],
+  "bugs": {
+    "url": "https://github.com/Esri/esri.github.io/issues"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/Esri/esri.github.io#readme"
+}
